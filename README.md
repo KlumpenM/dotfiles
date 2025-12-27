@@ -1,6 +1,9 @@
-# VSCode config
-These are the two files that we are using, but they need to be placed in specific files in vscode:
-- settings.json: Should be placed in "Open User Settings (JSON)"
-- keybindings.json: Should be placed in "Open Keyboard Shortcuts (JSON)"
+# Nvim Configuration
+This is my current (as of january 2026) nvim configuration. This is actively maintained, and updated
 
-There is going to be changes ongoing.
+## Pre requsites
+- Neovim (duh)
+- Ripgrep (rg)
+
+## Version
+This is configured for Linux/Mac, since this is what I am currently daily driving.
