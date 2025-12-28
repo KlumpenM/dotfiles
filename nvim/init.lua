@@ -2,6 +2,7 @@
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 vim.opt.rtp:prepend(lazypath)
 
+-- t
 -- Load core configuration
 require("core.options")
 require("core.autocmds")
